@@ -151,7 +151,7 @@ section {
   line-height: 1.8;
 }
 
-#skils ul {
+#skils ul li {
   color: var(--text-color-muted);
 }
 
