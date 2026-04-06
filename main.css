@@ -151,6 +151,10 @@ section {
   line-height: 1.8;
 }
 
+#skils ul {
+  color: var(--text-color-muted);
+}
+
 /* EXPERIENCE */
 
 #experience .job p.role {
